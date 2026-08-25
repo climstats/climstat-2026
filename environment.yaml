@@ -1,0 +1,19 @@
+name: climstat
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - statsmodels
+  - xarray
+  - netcdf4
+  - dask
+  - matplotlib
+  - cartopy
+  - cartopy_offlinedata
+  - eofs
+  - xeofs
+  - jupyterlab
+  - ipykernel
