@@ -92,7 +92,7 @@ bash Miniforge3-Linux-x86_64.sh
 
 ---
 
-## 2. 실습 자료 내려받기
+## 2. 실습 환경 설정 파일 받기
 
 **[기후자료통계분석](https://github.com/climstats/climstat-2026)** 
 이 저장소의 위쪽 초록색 **Code** 버튼 → **Download ZIP** → 압축을 풉니다.
