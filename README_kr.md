@@ -35,11 +35,13 @@ Miniforge는 파이썬 패키지를 관리해 주는 `conda`를 설치하는 작
 기본 경로에는 윈도우 사용자 이름이 들어가는데, 이름이 한글이면 나중에 경로 문제가 생길 수도 있습니다.
 경로 전체를 지우고 아래 경로를 입력하세요.
 
-<img width="615" height="486" alt="캡처" src="https://github.com/user-attachments/assets/3b243436-e1dc-4544-98b7-cb38feedb60d" />
 
 ```
 C:\Users\Public\miniforge3
 ```
+
+<img width="615" height="486" alt="캡처" src="https://github.com/user-attachments/assets/3b243436-e1dc-4544-98b7-cb38feedb60d" />
+
 
 `C:\miniforge3` 처럼 C 드라이브 바로 아래에 넣으면 권한 오류가 나니 위 경로를 쓰세요.
 
@@ -47,7 +49,9 @@ C:\Users\Public\miniforge3
 *Add installation to my PATH* 와 *Register Miniforge3 as my default Python* 은
 **체크하지 않은 채로** 두고 Install 을 누르세요.
 
+
 <img width="626" height="486" alt="캡처2" src="https://github.com/user-attachments/assets/fa34d3f0-4e0c-4fba-9658-c655a34c755d" />
+
 
 PATH 를 체크하지 않는 것은 의도한 것입니다. 그래도 `conda` 는 잘 작동합니다.
 설치가 끝나면 시작 메뉴에 **Miniforge Prompt** 가 생기는데, 그 창이 알아서
