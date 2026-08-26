@@ -191,7 +191,8 @@ conda create -n climstat --file conda-win-64.lock
 | `ModuleNotFoundError` | 환경이 활성화되지 않았습니다. `conda activate climstat` 을 먼저 실행하세요. |
 | 지도에 해안선이 안 나옴 | 환경이 온전하지 않습니다. 위 두 줄로 다시 만드세요. |
 
-실습에 필요한 패키지는 모두 들어 있습니다. 개인적으로 다른 패키지를 써 보고 싶다면
+실습에 필요한 패키지는 모두 들어 있습니다. 
+개인적으로 다른 패키지를 써 보고 싶다면
 `pip install` 대신 `conda install -c conda-forge 패키지이름` 을 쓰세요.
 conda 환경 안에서 pip 을 섞어 쓰면 환경이 깨지는 경우가 있습니다.
 그래도 문제가 생기면 위 두 줄로 다시 만들면 되니 부담 갖지 마세요.
