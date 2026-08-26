@@ -40,10 +40,10 @@ Miniforge는 파이썬 패키지를 관리해 주는 `conda`를 설치하는 작
 C:\Users\Public\miniforge3
 ```
 
+
 <img width="615" height="486" alt="캡처" src="https://github.com/user-attachments/assets/3b243436-e1dc-4544-98b7-cb38feedb60d" />
 
 
-`C:\miniforge3` 처럼 C 드라이브 바로 아래에 넣으면 권한 오류가 나니 위 경로를 쓰세요.
 
 **Advanced Installation Options** — 기본값이 이미 우리가 원하는 상태입니다.
 *Add installation to my PATH* 와 *Register Miniforge3 as my default Python* 은
@@ -57,6 +57,8 @@ PATH 를 체크하지 않는 것은 의도한 것입니다. 그래도 `conda` �
 설치가 끝나면 시작 메뉴에 **Miniforge Prompt** 가 생기는데, 그 창이 알아서
 필요한 설정을 잡아 줍니다. PATH 에 등록하면 오히려 기존에 깔린 아나콘다나
 파이썬과 충돌합니다.
+
+
 
 ### 맥 / 리눅스
 
