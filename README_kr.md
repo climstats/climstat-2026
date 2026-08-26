@@ -12,7 +12,7 @@ Miniforge는 파이썬 패키지를 관리해 주는 `conda`를 설치하는 작
 **[conda-forge.org/download](https://conda-forge.org/download/)** 에 접속해서
 자기 컴퓨터에 맞는 설치 파일을 받으세요.
 
-| 내 컴퓨터 | 눌러야 할 것 |
+| 내 컴퓨터 | 설치파일 |
 |---|---|
 | 윈도우 | **Windows** — `x86_64` |
 | 맥 (M1 / M2 / M3 / M4 칩) | **macOS** — `arm64 (Apple Silicon)` |
