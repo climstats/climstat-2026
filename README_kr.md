@@ -52,7 +52,7 @@ C:\Users\Public\miniforge3
 PATH 를 체크하지 않는 것은 의도한 것입니다. 
 그래도 `conda` 는 잘 작동합니다.
 설치가 끝나면 시작 메뉴에 Miniforge Prompt 가 생기는데, 그 창이 알아서 필요한 설정을 잡아 줍니다. 
-PATH 에 등록하면 오히려 기존에 깔린 아나콘다나 파이썬과 충돌합니다.
+PATH 에 등록하면 오히려 기존에 깔린 아나콘다나 파이썬과 충돌할 수도 있습니다.
 
 
 
@@ -131,8 +131,7 @@ conda create -n climstat --file conda-osx-64.lock        # 맥, 인텔
 conda create -n climstat --file conda-linux-64.lock      # 리눅스 / 우분투
 ```
 
-lock 파일에는 필요한 패키지와 그 버전이 하나도 빠짐없이 적혀 있어서,
-수강생 전원이 완전히 동일한 환경을 갖게 됩니다.
+lock 파일에는 필요한 패키지와 그 버전이 모두 적혀 있어서, 수강생 모두가 동일한 환경을 갖게 됩니다.
 
 ---
 
@@ -167,10 +166,9 @@ jupyter-lab
 
 각 셀은 확인 번호를 함께 출력합니다. 전부 통과했든 중간에 오류가 났든,
 다 끝나면 **노트북을 저장(Ctrl+S)하고 그 `.ipynb` 파일 자체를 제출**해 주세요.
-오류 메시지가 파일 안에 그대로 저장되기 때문에, 화면 캡처보다 훨씬 도움이 됩니다.
 
-커널 이름은 `Python 3 (ipykernel)` 로 표시됩니다. 정상입니다.
-`climstat` 환경에서 JupyterLab 을 실행했다면 그게 곧 climstat 커널입니다.
+
+커널 이름은 `Python 3 (ipykernel)` 로 표시됩니다. 
 
 ---
 
@@ -181,9 +179,8 @@ jupyter-lab
 
 | 오류 메시지 | 원인 |
 |---|---|
-| `conda is not recognized` | 윈도우에서 일반 명령 프롬프트를 쓴 경우입니다. Miniforge Prompt 로 여세요. |
-| `No such file or directory: conda-win-64.lock` | 폴더를 잘못 찾아왔습니다. `dir` 또는 `ls` 로 확인하세요. |
-| `ModuleNotFoundError` | 환경이 활성화되지 않았습니다. `conda activate climstat` 을 먼저 실행하세요. |
+| `conda is not recognized` | 시작 메뉴에서 Miniforge Prompt 를 열었는지 확인하세요. |
+| `ModuleNotFoundError` | conda activate climstat 을 먼저 실행하세요. 창 맨 앞에 (climstat) 이 보여야 합니다. |
 
 ### 환경을 지우고 다시 만들고 싶을 경우
 
