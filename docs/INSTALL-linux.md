@@ -8,7 +8,11 @@
 
 **[conda-forge.org/download](https://conda-forge.org/download/)** 에 접속해서
 **Linux — `x86_64 (amd64)`** 를 받습니다.
-다운로드 폴더를 연 후 터미널을 실행하고(Ctrl+Alt+T) 터미널에서 받은 파일을 실행합니다.
+
+
+다운로드 폴더를 연 후 터미널을 열고(Ctrl+Alt+T)
+
+터미널에서 받은 파일을 실행합니다.
 
 ```
 bash Miniforge3-Linux-x86_64.sh
