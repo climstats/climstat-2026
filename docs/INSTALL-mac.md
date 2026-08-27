@@ -48,7 +48,7 @@ Miniforge는 파이썬 패키지를 관리해 주는 `conda`를 설치하는 작
 이제 실습 폴더로 이동합니다.
 
 ```
-cd ~/Desktop/climstat-2026
+cd ~/Desktop/climstat-2026-main
 ```
 
 경로를 치기 번거로우면 `cd ` 까지만 입력하고 (`cd` 뒤에 **한 칸 띄우기**)
