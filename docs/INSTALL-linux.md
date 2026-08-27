@@ -53,23 +53,27 @@ bash Miniforge3-Linux-x86_64.sh
 
 ## 3. 실습 환경 만들기
 
-압축을 푼 폴더로 이동한 뒤 환경을 만듭니다.
+이제 실습 폴더로 이동한 뒤 환경을 만듭니다.
 
 ```
 cd ~/Desktop/climstat-2026-main
 conda create -n climstat --file env/conda-linux-64.lock
 ```
 
-`ls` 로 `.lock` 파일들이 보이는지 먼저 확인하세요.
+<img width="932" height="698" alt="스크린샷, 2026-08-27 12-26-09" src="https://github.com/user-attachments/assets/59921966-f37d-411a-a9a2-23e3190e73db" />
+
+
 
 ---
 
 ## 4. JupyterLab 실행
 
+
 ```
 conda activate climstat
 jupyter-lab
 ```
+<img width="734" height="495" alt="스크린샷, 2026-08-27 12-29-16" src="https://github.com/user-attachments/assets/ccf66203-34bb-43c7-b1b6-1ea213e2e45f" />
 
 ---
 
