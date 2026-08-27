@@ -20,27 +20,37 @@ bash Miniforge3-Linux-x86_64.sh
 <img width="962" height="730" alt="스크린샷, 2026-08-27 12-16-18" src="https://github.com/user-attachments/assets/82dc3cf0-c800-452a-aa98-234c91e875d0" />
 
 
+
 라이선스는 아래 방향키로 넘긴 뒤 `yes`를 입력하고,
+
 
 <img width="965" height="721" alt="스크린샷, 2026-08-27 12-17-20" src="https://github.com/user-attachments/assets/bcfa44b9-1261-4d8a-999c-78f79334f884" />
 
 
 설치 위치를 물으면 엔터를 입력하세요
 
+
 <img width="774" height="540" alt="스크린샷, 2026-08-27 12-18-00" src="https://github.com/user-attachments/assets/8d775958-5644-4886-984c-00e4efa2306c" />
+
 
 
 마지막에 `conda init` 을 실행할지 물으면 **`yes`** 를 입력하세요 
 
+
 <img width="743" height="509" alt="스크린샷, 2026-08-27 12-18-52" src="https://github.com/user-attachments/assets/d89b0048-23b2-47d5-b62a-43b0b2a7fc94" />
+
 
 완료된 화면을 확인한 후 
 
+
 <img width="737" height="498" alt="스크린샷, 2026-08-27 12-19-39" src="https://github.com/user-attachments/assets/1cc8d48f-ce88-40a6-96f7-df8b2d5792b0" />
+
 
 터미널을 재실행하면 맨 앞에 `(base)` 가 보입니다.
 
+
 <img width="773" height="542" alt="스크린샷, 2026-08-27 12-20-49" src="https://github.com/user-attachments/assets/8d3d2486-4cf7-44ac-bbae-438bb8341b71" />
+
 
 ---
 
