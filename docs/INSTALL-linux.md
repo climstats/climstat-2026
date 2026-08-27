@@ -74,6 +74,7 @@ conda activate climstat
 jupyter-lab
 ```
 <img width="734" height="495" alt="스크린샷, 2026-08-27 12-29-16" src="https://github.com/user-attachments/assets/ccf66203-34bb-43c7-b1b6-1ea213e2e45f" />
+
 브라우저가 자동으로 열립니다.
 
 두 번째 수업부터는 이렇게 하면 됩니다.
