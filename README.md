@@ -53,7 +53,7 @@ conda create -n climstat --file env/conda-win-64.lock
 ### climstat 환경에 패키지를 추가로 설치해야 할 경우
 
 실습에 필요한 패키지는 모두 들어 있습니다. 그래도 다른 패키지가 필요하면
-`pip install` 대신 아래처럼 설치하세요.
+반드시 아래처럼 설치하세요.
 
 ```
 conda activate climstat
