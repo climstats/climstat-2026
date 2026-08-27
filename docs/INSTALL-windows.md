@@ -72,7 +72,7 @@ PATH 를 체크하지 않는 것은 의도한 것입니다. 그래도 `conda` �
 혹은 실습 폴더가 있는 경로를 직접 입력해도 됩니다.
 
 ```
-cd C:\Users\사용자명\Desktop\climstat-2026
+cd C:\Users\사용자명\Desktop\climstat-2026-main
 ```
 
 제대로 왔는지는 `dir` 로 확인하세요. `env`, `notebooks`, `data` 폴더가 보이면 맞습니다.
