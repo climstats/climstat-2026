@@ -1,6 +1,6 @@
 # 리눅스 / 우분투 — 실습 환경 설치
 
-[← 저장소 첫 화면으로](../)
+[← 저장소 첫 화면으로](https://github.com/climstats/climstat-2026/tree/main)
 
 ---
 
@@ -50,4 +50,4 @@ jupyter-lab
 
 ---
 
-설치가 끝났으면 [저장소 첫 화면](../)의 **환경 확인** 으로 돌아가 주세요.
+설치가 끝났으면 [저장소 첫 화면](https://github.com/climstats/climstat-2026/tree/main)의 **환경 확인** 으로 돌아가 주세요.
