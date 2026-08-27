@@ -33,7 +33,7 @@ bash Miniforge3-Linux-x86_64.sh
 압축을 푼 폴더로 이동한 뒤 환경을 만듭니다.
 
 ```
-cd ~/Desktop/climstat-2026
+cd ~/Desktop/climstat-2026-main
 conda create -n climstat --file env/conda-linux-64.lock
 ```
 
