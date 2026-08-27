@@ -45,10 +45,10 @@
 
 ```
 conda env remove -n climstat
-conda create -n climstat --file env/conda-win-64.lock
+conda create -n climstat --file env/conda-운영체제.lock
 ```
 
-마지막 줄의 lock 파일 이름은 자기 컴퓨터에 맞는 것으로 바꿔 주세요.
+마지막 줄의 lock 파일 이름은 자기 컴퓨터에 맞는 것으로 실행해주세요.
 
 ### climstat 환경에 패키지를 추가로 설치해야 할 경우
 
