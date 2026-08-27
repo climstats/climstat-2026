@@ -83,7 +83,7 @@ jupyter-lab
 두 번째 수업부터는 이렇게 하면 됩니다.
 
 1. 터미널을 엽니다.
-2. `cd ~/Desktop/climstat-2026` 으로 실습 폴더에 들어갑니다.
+2. `cd ~/Desktop/climstat-2026-main` 으로 실습 폴더에 들어갑니다.
 3. `conda activate climstat` 과 `jupyter-lab` 을 실행합니다.
 
 ---
