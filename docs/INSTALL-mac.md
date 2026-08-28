@@ -33,12 +33,16 @@ Miniforge는 파이썬 패키지를 관리해 주는 `conda`를 설치하는 작
 ```
 bash ~/Downloads/Miniforge3-MacOSX-arm64.sh
 ```
-<img width="1042" height="721" alt="Screenshot 2026-08-28 at 4 18 26 PM" src="https://github.com/user-attachments/assets/01720d92-7772-412a-b50e-94da6488510e" />
+
+<img width="1042" height="721" alt="Screenshot 2026-08-28 at 4 18 09 PM" src="https://github.com/user-attachments/assets/076d3b92-d4ff-415d-aaa5-fa314032fcdb" />
+
+
 
 
 라이선스에 엔터를 입력하시고 
 
-<img width="1042" height="721" alt="Screenshot 2026-08-28 at 4 18 09 PM" src="https://github.com/user-attachments/assets/076d3b92-d4ff-415d-aaa5-fa314032fcdb" />
+<img width="1042" height="721" alt="Screenshot 2026-08-28 at 4 18 26 PM" src="https://github.com/user-attachments/assets/01720d92-7772-412a-b50e-94da6488510e" />
+
 
 아래 방향키로 넘긴 뒤 `yes`를 입력합니다 , 
 
