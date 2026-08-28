@@ -33,7 +33,7 @@
 
 | 오류 메시지 | 어떻게 하면 되나 |
 |---|---|
-| `conda is not recognized` | 시작 메뉴에서 **Miniforge Prompt** 를 열었는지 확인하세요. 다른 검은 창에서는 `conda` 가 작동하지 않습니다. |
+| `conda is not recognized` | 시작 메뉴에서 **Miniforge Prompt** (아나콘다를 쓰는 경우  **Anaconda Prompt**)를 열었는지 확인하세요. 다른 검은 창에서는 `conda` 가 작동하지 않습니다. |
 | `No such file or directory` | 실습 폴더로 이동하지 않았습니다. `cd` 로 폴더에 들어간 뒤 다시 실행하세요. |
 | `ModuleNotFoundError` | `conda activate climstat` 을 먼저 실행하세요. 창 맨 앞에 `(climstat)` 이 보여야 합니다. |
 
